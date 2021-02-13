@@ -1,0 +1,19 @@
+{
+    "name": "Instance",
+    "description": "a simple library for testing to test if an object is a type of a class",
+    "keywords": "Hyperloop, Manchester, hyperloop, manchester, object, class, type, of, typeof, inheritence, instance, classes",
+    "version": "1.0.0",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/manchester-hyperloop/Instance"
+    },
+    "author":
+    {
+        "name": "Harry O'Brien",
+        "url": "https://github.com/Harry-OBrien",
+        "maintainer": true
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
